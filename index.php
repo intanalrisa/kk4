@@ -1,6 +1,7 @@
 <html>
 <head>
   <title>DATA</title>
+  <link rel="stylesheet" type="text/css" href="edit.css">
 </head>
 <body>
 
